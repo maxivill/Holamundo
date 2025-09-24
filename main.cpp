@@ -11,6 +11,7 @@ int main() {
 
     //tercer aporte
     suma(5, 3);
+    resta(5, 3);
 
     return 0;
 }
