@@ -6,3 +6,8 @@ void suma(int a, int b){
     int resultado = a + b;
     cout << "La suma es: " << resultado << endl;
 }
+
+void multi(int a, int b){
+    int resultado = a * b;
+    cout << "La multiplicación es: " << resultado << endl;
+}
