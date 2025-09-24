@@ -2,7 +2,8 @@
 
 using namespace std;
 
-#include"funciones.h"
+#include"funcion1.h"
+#include"funcion2.h"
 
 int main() {
     //primer aporte
